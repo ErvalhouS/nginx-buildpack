@@ -1,3 +1,12 @@
+## v0.5
+
+2017-05-08
+
+Update NGINX config
+
+* Adding PageSpeed module
+* Update to 1.12.0 NGINX
+
 ## v0.4
 
 2012-05-13
